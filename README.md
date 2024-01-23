@@ -1,7 +1,7 @@
 # Fake News Detection :iphone: :computer: :mag:
 
 
-![alt text](./fake-news_site.png ) 
+![alt text](./fake-news_site.png )
 
 ## A propos
 Dans ce projet, nous avons utilisé le langage Python ainsi que des algorithmes d'apprentissage automatique (Machine Learning) tels que SVM et k-NN pour classifier les faux et les vrais articles de presse. Nous avons exploité un ensemble de bibliothèques Python comme scikit-learn, et pour la détection, nous avons utilisé un modèle de langage naturel (LLM).
