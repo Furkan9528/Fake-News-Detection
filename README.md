@@ -44,8 +44,8 @@ pip install pandas
  conda install -c anaconda pandas
 ```
 ## Dataset
-  - Les données proviennent de Kaggle, vous pouvez les télécharger ici :
-Référence - https://www.kaggle.com/code/therealsampat/fake-news-detection/input
+Les données proviennent de Kaggle, vous pouvez les télécharger ici :
+  *	Référence - https://www.kaggle.com/code/therealsampat/fake-news-detection/input
 Il existe deux fichiers, un pour les vraies nouvelles et un pour les fausses nouvelles (tous deux en anglais) avec un total de 17 903 « faux » tweets et 20 826 « vrais » articles.
 
 
